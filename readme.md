@@ -1,4 +1,9 @@
+
+<p align="center">
+
 <img src = "japan.jpeg"/>
+
+</p>
 
 <p align="center">
 
