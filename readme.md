@@ -9,7 +9,9 @@
 
 <br>
 <p align="center">
+  
 ![Profile views](https://komarev.com/ghpvc/?username=e73vn)
+
 </p>
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 
