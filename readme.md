@@ -38,17 +38,6 @@ evan@github:~$ neofetch
                  Learning: Python
 ```
 
-## projects
-
-```console
-evan@github:~/projects$ ls
-
-portfolio/
-python/
-dotfiles/
-experiments/
-```
-
 ## interests
 
 ```console
