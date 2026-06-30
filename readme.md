@@ -1,7 +1,7 @@
 <div align="center">
       
 [![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
-
+<img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
 # evan thomas
 
 </div>
@@ -55,16 +55,6 @@ evan@github:~$ cat interests.txt
 ```console
 evan@github:~$ stats
 ```
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=e73vn&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
-
-</div>
 
 ### links
 
