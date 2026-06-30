@@ -1,6 +1,7 @@
 <div align="center">
       
 [![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
+<br>
 <img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
 # evan thomas
 
