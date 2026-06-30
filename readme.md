@@ -19,7 +19,7 @@ currently learning:
 html • css • python
 
 currently building:
-small projects, one at a time
+website, habit tracker, dot files
 ```
 
 ### system
