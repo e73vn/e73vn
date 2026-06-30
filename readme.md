@@ -4,7 +4,6 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
-# evan thomas
 
 </div>
 
