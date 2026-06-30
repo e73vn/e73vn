@@ -1,4 +1,6 @@
 <div align="center">
+      
+[![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
 
 # evan thomas
 
@@ -37,7 +39,6 @@ evan@github:~$ neofetch
                  Browser: Firefox
                  Learning: Python
 ```
-[![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
 
 ### interests
 
