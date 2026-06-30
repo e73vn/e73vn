@@ -56,7 +56,7 @@ evan@github:~$ stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e73vn&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=e73vn&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
 
 <br><br>
 
