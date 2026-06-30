@@ -2,16 +2,6 @@
 
 # evan thomas
 
-```text
-┌────────────────────────────────────┐
-│ > about                            │
-│   projects                         │
-│   photography                      │
-│   blog                             │
-│   contact                          │
-└────────────────────────────────────┘
-```
-
 </div>
 
 ## about
