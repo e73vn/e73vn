@@ -17,7 +17,7 @@ currently building:
 small projects, one at a time
 ```
 
-## system
+# system
 
 ```console
 evan@github:~$ neofetch
@@ -36,7 +36,7 @@ evan@github:~$ neofetch
                  Learning: Python
 ```
 
-## interests
+# interests
 
 ```console
 evan@github:~$ cat interests.txt
@@ -45,7 +45,7 @@ evan@github:~$ cat interests.txt
 - photography
 - web development
 ```
-## links
+# links
 
 ```console
 evan@github:~$ cat links.txt
