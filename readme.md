@@ -4,8 +4,6 @@
 
 </div>
 
-## about
-
 ```console
 evan@github:~$ whoami
 
