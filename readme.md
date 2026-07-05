@@ -51,22 +51,6 @@ evan@github:~$ cat interests.txt
 - web development
 ```
 
-### stats
-
-```console
-evan@github:~$ stats
-```
-
-### links
-
-```console
-evan@github:~$ cat links.txt
-
-website  : https://e73vn.github.io/website/
-github   : https://github.com/e73vn
-youtube  : https://www.youtube.com/@e73vn
-```
-
 ```console
 evan@github:~$ exit
 
