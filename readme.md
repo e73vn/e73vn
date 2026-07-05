@@ -1,5 +1,5 @@
 <div align="center">
-      
+      [![e73vn's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 [![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
 <br>
 <br>
