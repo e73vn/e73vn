@@ -4,7 +4,7 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=gruvbox)
 </div>
 
 ```console
