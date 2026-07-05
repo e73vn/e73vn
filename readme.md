@@ -1,12 +1,18 @@
 <div align="center">
-      [![e73vn's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-[![Evan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
-<br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=gruvbox)
-</div>
 
+[![e73vn's GitHub stats](https://github-stats-extended.vercel.app/api?username=e73vn)](https://github.com/stats-organization/github-stats-extended)
+
+[![Evan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=e73vn&theme=gruvbox)](https://github.com/e73vn)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=e73vn&label=profile+views&color=d79921&style=flat" alt="Profile Views"/>
+
+<br>
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)
+
+</div>
 ```console
 evan@github:~$ whoami
 
