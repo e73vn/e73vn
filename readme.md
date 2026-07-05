@@ -10,8 +10,8 @@
 <br>
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=e73vn&layout=compact&langs_count=4&theme=gruvbox)
-
 </div>
+
 ```console
 evan@github:~$ whoami
 
