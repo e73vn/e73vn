@@ -21,9 +21,6 @@ html • css • python
 currently building:
 website, habit tracker, dot files
 ```
-
-### system
-
 ```console
 evan@github:~$ neofetch
 ```
@@ -40,9 +37,6 @@ evan@github:~$ neofetch
                  Browser: Firefox
                  Learning: Python
 ```
-
-### interests
-
 ```console
 evan@github:~$ cat interests.txt
 
@@ -50,7 +44,6 @@ evan@github:~$ cat interests.txt
 - photography
 - web development
 ```
-
 ```console
 evan@github:~$ exit
 
