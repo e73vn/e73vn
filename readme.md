@@ -21,10 +21,10 @@ location  : England
 goal      : Computer Science Foundation Year (2027–2028)
 
 currently learning:
-html • css • python
+html • css • python + a bit of java for website
 
 currently building:
-website, habit tracker, dot files
+website, habit tracker, dot files, personal dashboard
 ```
 ```console
 evan@github:~$ neofetch
